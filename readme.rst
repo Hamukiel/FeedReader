@@ -52,7 +52,7 @@ in the **content** tag
 
 The output JSON-like structure will be:
 
-.. code-block:: json
+.. code-block:: text
 
     {
         "feed": [
